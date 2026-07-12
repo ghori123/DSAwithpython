@@ -33,9 +33,9 @@ Welcome to my **Data Structures and Algorithms (DSA)** journey! This repository 
 
 ## 📅 Progress
 
-* [ ] Arrays
-* [ ] Strings
-* [ ] Linked Lists
+* [x] Arrays
+* [x] Strings
+* [x] Linked Lists
 * [ ] Stacks
 * [ ] Queues
 * [ ] Trees
