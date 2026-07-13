@@ -62,9 +62,9 @@ class singly_linked_list:
         else:
             t1 = self.head
             while t1 != None:
-                print(t1.data, end=" ")
+                print(t1.data, end=" -->")
                 t1 = t1.next
-            print()
+            print("None")
 
 l1 = singly_linked_list()
 l1.insert_at_end(10)
