@@ -36,11 +36,11 @@ Welcome to my **Data Structures and Algorithms (DSA)** journey! This repository 
 * [x] Arrays
 * [x] Strings
 * [x] Linked Lists
-* [ ] Stacks
-* [ ] Queues
-* [ ] Trees
+* [x] Stacks
+* [x] Queues
+* [x] Trees
 * [ ] Graphs
-* [ ] Recursion
+* [x] Recursion
 * [ ] Searching
 * [ ] Sorting
 * [ ] Dynamic Programming
