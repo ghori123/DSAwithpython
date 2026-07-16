@@ -41,8 +41,8 @@ Welcome to my **Data Structures and Algorithms (DSA)** journey! This repository 
 * [x] Trees
 * [ ] Graphs
 * [x] Recursion
-* [ ] Searching
-* [ ] Sorting
+* [x] Searching
+* [x] Sorting
 * [ ] Dynamic Programming
 
 ## 🎯 What You'll Find
